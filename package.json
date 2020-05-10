@@ -1,0 +1,16 @@
+{
+  "name": "nexrad-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nexview/nexrad-decoder.git",
+  "author": "Alex Neises <alex@nexview.io>",
+  "license": "MIT",
+  "dependencies": {
+    "logform": "^2.1.2",
+    "moment-timezone": "^0.5.28",
+    "random-access-file": "^2.1.4",
+    "seek-bzip": "^1.0.5",
+    "unbzip2-stream": "^1.4.2",
+    "winston": "^3.2.1"
+  }
+}
