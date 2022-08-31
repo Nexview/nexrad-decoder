@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "logform": "^2.1.2",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "random-access-file": "^2.1.4",
     "seek-bzip": "^1.0.5",
     "unbzip2-stream": "^1.4.2",
